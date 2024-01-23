@@ -1,0 +1,910 @@
+X_id,CIVIC_CENTRE,DEATH_LICENSES,PLACE_OF_DEATH,TIME_PERIOD
+19435,ET,69,Outside City Limits,2011-01
+19436,ET,341,Toronto,2011-01
+19437,NY,141,Outside City Limits,2011-01
+19438,NY,540,Toronto,2011-01
+19439,SC,129,Outside City Limits,2011-01
+19440,SC,545,Toronto,2011-01
+19441,TO,297,Toronto,2011-01
+19442,ET,83,Outside City Limits,2011-02
+19443,ET,224,Toronto,2011-02
+19444,NY,81,Outside City Limits,2011-02
+19445,NY,307,Toronto,2011-02
+19446,SC,68,Outside City Limits,2011-02
+19447,SC,339,Toronto,2011-02
+19448,TO,223,Toronto,2011-02
+19449,ET,116,Outside City Limits,2011-03
+19450,ET,233,Toronto,2011-03
+19451,NY,118,Outside City Limits,2011-03
+19452,NY,537,Toronto,2011-03
+19453,SC,117,Outside City Limits,2011-03
+19454,SC,283,Toronto,2011-03
+19455,TO,185,Toronto,2011-03
+19456,ET,83,Outside City Limits,2011-04
+19457,ET,290,Toronto,2011-04
+19458,NY,87,Outside City Limits,2011-04
+19459,NY,553,Toronto,2011-04
+19460,SC,85,Outside City Limits,2011-04
+19461,SC,372,Toronto,2011-04
+19462,TO,42,Toronto,2011-04
+19463,ET,57,Outside City Limits,2011-05
+19464,ET,176,Toronto,2011-05
+19465,NY,92,Outside City Limits,2011-05
+19466,NY,480,Toronto,2011-05
+19467,SC,51,Outside City Limits,2011-05
+19468,SC,253,Toronto,2011-05
+19469,ET,30,Outside City Limits,2011-06
+19470,ET,239,Toronto,2011-06
+19471,NY,107,Outside City Limits,2011-06
+19472,NY,479,Toronto,2011-06
+19473,SC,84,Outside City Limits,2011-06
+19474,SC,518,Toronto,2011-06
+19475,ET,40,Outside City Limits,2011-07
+19476,ET,317,Toronto,2011-07
+19477,NY,50,Outside City Limits,2011-07
+19478,NY,315,Toronto,2011-07
+19479,SC,43,Outside City Limits,2011-07
+19480,SC,312,Toronto,2011-07
+19481,TO,13,Outside City Limits,2011-07
+19482,TO,51,Toronto,2011-07
+19483,ET,169,Outside City Limits,2011-08
+19484,ET,165,Toronto,2011-08
+19485,NY,117,Outside City Limits,2011-08
+19486,NY,389,Toronto,2011-08
+19487,SC,93,Outside City Limits,2011-08
+19488,SC,320,Toronto,2011-08
+19489,TO,4,Outside City Limits,2011-08
+19490,TO,273,Toronto,2011-08
+19491,ET,74,Outside City Limits,2011-09
+19492,ET,176,Toronto,2011-09
+19493,NY,133,Outside City Limits,2011-09
+19494,NY,610,Toronto,2011-09
+19495,SC,58,Outside City Limits,2011-09
+19496,SC,394,Toronto,2011-09
+19497,ET,85,Outside City Limits,2011-10
+19498,ET,245,Toronto,2011-10
+19499,NY,123,Outside City Limits,2011-10
+19500,NY,498,Toronto,2011-10
+19501,SC,57,Outside City Limits,2011-10
+19502,SC,492,Toronto,2011-10
+19503,TO,5,Toronto,2011-10
+19504,ET,70,Outside City Limits,2011-11
+19505,ET,250,Toronto,2011-11
+19506,NY,104,Outside City Limits,2011-11
+19507,NY,458,Toronto,2011-11
+19508,SC,73,Outside City Limits,2011-11
+19509,SC,378,Toronto,2011-11
+19510,ET,68,Outside City Limits,2011-12
+19511,ET,174,Toronto,2011-12
+19512,NY,110,Outside City Limits,2011-12
+19513,NY,420,Toronto,2011-12
+19514,SC,94,Outside City Limits,2011-12
+19515,SC,456,Toronto,2011-12
+19516,ET,127,Outside City Limits,2012-01
+19517,ET,396,Toronto,2012-01
+19518,NY,81,Outside City Limits,2012-01
+19519,NY,424,Toronto,2012-01
+19520,SC,47,Outside City Limits,2012-01
+19521,SC,432,Toronto,2012-01
+19522,TO,97,Toronto,2012-01
+19523,ET,58,Outside City Limits,2012-02
+19524,ET,362,Toronto,2012-02
+19525,NY,62,Outside City Limits,2012-02
+19526,NY,304,Toronto,2012-02
+19527,SC,137,Outside City Limits,2012-02
+19528,SC,508,Toronto,2012-02
+19529,TO,12,Toronto,2012-02
+19530,ET,179,Outside City Limits,2012-03
+19531,ET,493,Toronto,2012-03
+19532,NY,39,Outside City Limits,2012-03
+19533,NY,271,Toronto,2012-03
+19534,SC,75,Outside City Limits,2012-03
+19535,SC,432,Toronto,2012-03
+19536,ET,188,Outside City Limits,2012-04
+19537,ET,452,Toronto,2012-04
+19538,NY,14,Outside City Limits,2012-04
+19539,NY,214,Toronto,2012-04
+19540,SC,23,Outside City Limits,2012-04
+19541,SC,254,Toronto,2012-04
+19542,ET,137,Outside City Limits,2012-05
+19543,ET,658,Toronto,2012-05
+19544,NY,23,Outside City Limits,2012-05
+19545,NY,245,Toronto,2012-05
+19546,SC,67,Outside City Limits,2012-05
+19547,SC,359,Toronto,2012-05
+19548,ET,172,Outside City Limits,2012-06
+19549,ET,521,Toronto,2012-06
+19550,NY,55,Outside City Limits,2012-06
+19551,NY,138,Toronto,2012-06
+19552,SC,117,Outside City Limits,2012-06
+19553,SC,561,Toronto,2012-06
+19554,ET,105,Outside City Limits,2012-07
+19555,ET,264,Toronto,2012-07
+19556,NY,70,Outside City Limits,2012-07
+19557,NY,387,Toronto,2012-07
+19558,SC,52,Outside City Limits,2012-07
+19559,SC,293,Toronto,2012-07
+19560,ET,99,Outside City Limits,2012-08
+19561,ET,437,Toronto,2012-08
+19562,NY,77,Outside City Limits,2012-08
+19563,NY,286,Toronto,2012-08
+19564,SC,46,Outside City Limits,2012-08
+19565,SC,142,Toronto,2012-08
+19566,ET,106,Outside City Limits,2012-09
+19567,ET,425,Toronto,2012-09
+19568,NY,84,Outside City Limits,2012-09
+19569,NY,380,Toronto,2012-09
+19570,SC,115,Outside City Limits,2012-09
+19571,SC,590,Toronto,2012-09
+19572,ET,103,Outside City Limits,2012-10
+19573,ET,451,Toronto,2012-10
+19574,NY,107,Outside City Limits,2012-10
+19575,NY,377,Toronto,2012-10
+19576,SC,84,Outside City Limits,2012-10
+19577,SC,473,Toronto,2012-10
+19578,ET,85,Outside City Limits,2012-11
+19579,ET,293,Toronto,2012-11
+19580,NY,88,Outside City Limits,2012-11
+19581,NY,314,Toronto,2012-11
+19582,SC,79,Outside City Limits,2012-11
+19583,SC,434,Toronto,2012-11
+19584,ET,82,Outside City Limits,2012-12
+19585,ET,636,Toronto,2012-12
+19586,NY,73,Outside City Limits,2012-12
+19587,NY,311,Toronto,2012-12
+19588,SC,36,Outside City Limits,2012-12
+19589,SC,281,Toronto,2012-12
+19590,ET,283,Outside City Limits,2013-01
+19591,ET,631,Toronto,2013-01
+19592,NY,117,Outside City Limits,2013-01
+19593,NY,418,Toronto,2013-01
+19594,SC,78,Outside City Limits,2013-01
+19595,SC,582,Toronto,2013-01
+19596,ET,103,Outside City Limits,2013-02
+19597,ET,434,Toronto,2013-02
+19598,NY,54,Outside City Limits,2013-02
+19599,NY,243,Toronto,2013-02
+19600,SC,59,Outside City Limits,2013-02
+19601,SC,420,Toronto,2013-02
+19602,ET,94,Outside City Limits,2013-03
+19603,ET,312,Toronto,2013-03
+19604,NY,80,Outside City Limits,2013-03
+19605,NY,234,Toronto,2013-03
+19606,SC,95,Outside City Limits,2013-03
+19607,SC,416,Toronto,2013-03
+19608,ET,163,Outside City Limits,2013-04
+19609,ET,669,Toronto,2013-04
+19610,NY,47,Outside City Limits,2013-04
+19611,NY,226,Toronto,2013-04
+19612,SC,76,Outside City Limits,2013-04
+19613,SC,501,Toronto,2013-04
+19614,ET,82,Outside City Limits,2013-05
+19615,ET,435,Toronto,2013-05
+19616,NY,81,Outside City Limits,2013-05
+19617,NY,276,Toronto,2013-05
+19618,SC,86,Outside City Limits,2013-05
+19619,SC,432,Toronto,2013-05
+19620,ET,93,Outside City Limits,2013-06
+19621,ET,506,Toronto,2013-06
+19622,NY,66,Outside City Limits,2013-06
+19623,NY,236,Toronto,2013-06
+19624,SC,54,Outside City Limits,2013-06
+19625,SC,255,Toronto,2013-06
+19626,ET,193,Outside City Limits,2013-07
+19627,ET,732,Toronto,2013-07
+19628,NY,55,Outside City Limits,2013-07
+19629,NY,276,Toronto,2013-07
+19630,SC,58,Outside City Limits,2013-07
+19631,SC,346,Toronto,2013-07
+19632,ET,116,Outside City Limits,2013-08
+19633,ET,379,Toronto,2013-08
+19634,NY,83,Outside City Limits,2013-08
+19635,NY,290,Toronto,2013-08
+19636,SC,33,Outside City Limits,2013-08
+19637,SC,217,Toronto,2013-08
+19638,ET,150,Outside City Limits,2013-09
+19639,ET,449,Toronto,2013-09
+19640,NY,109,Outside City Limits,2013-09
+19641,NY,487,Toronto,2013-09
+19642,SC,83,Outside City Limits,2013-09
+19643,SC,338,Toronto,2013-09
+19644,ET,111,Outside City Limits,2013-10
+19645,ET,414,Toronto,2013-10
+19646,NY,98,Outside City Limits,2013-10
+19647,NY,390,Toronto,2013-10
+19648,SC,82,Outside City Limits,2013-10
+19649,SC,433,Toronto,2013-10
+19650,ET,99,Outside City Limits,2013-11
+19651,ET,338,Toronto,2013-11
+19652,NY,60,Outside City Limits,2013-11
+19653,NY,277,Toronto,2013-11
+19654,SC,86,Outside City Limits,2013-11
+19655,SC,398,Toronto,2013-11
+19656,ET,66,Outside City Limits,2013-12
+19657,ET,432,Toronto,2013-12
+19658,NY,95,Outside City Limits,2013-12
+19659,NY,331,Toronto,2013-12
+19660,SC,81,Outside City Limits,2013-12
+19661,SC,318,Toronto,2013-12
+19662,ET,215,Outside City Limits,2014-01
+19663,ET,569,Toronto,2014-01
+19664,NY,149,Outside City Limits,2014-01
+19665,NY,503,Toronto,2014-01
+19666,SC,104,Outside City Limits,2014-01
+19667,SC,555,Toronto,2014-01
+19668,ET,136,Outside City Limits,2014-02
+19669,ET,379,Toronto,2014-02
+19670,NY,93,Outside City Limits,2014-02
+19671,NY,381,Toronto,2014-02
+19672,SC,66,Outside City Limits,2014-02
+19673,SC,335,Toronto,2014-02
+19674,ET,112,Outside City Limits,2014-03
+19675,ET,394,Toronto,2014-03
+19676,NY,158,Outside City Limits,2014-03
+19677,NY,618,Toronto,2014-03
+19678,SC,90,Outside City Limits,2014-03
+19679,SC,410,Toronto,2014-03
+19680,ET,112,Outside City Limits,2014-04
+19681,ET,352,Toronto,2014-04
+19682,NY,115,Outside City Limits,2014-04
+19683,NY,518,Toronto,2014-04
+19684,SC,59,Outside City Limits,2014-04
+19685,SC,402,Toronto,2014-04
+19686,ET,78,Outside City Limits,2014-05
+19687,ET,330,Toronto,2014-05
+19688,NY,63,Outside City Limits,2014-05
+19689,NY,296,Toronto,2014-05
+19690,SC,108,Outside City Limits,2014-05
+19691,SC,398,Toronto,2014-05
+19692,ET,95,Outside City Limits,2014-06
+19693,ET,371,Toronto,2014-06
+19694,NY,99,Outside City Limits,2014-06
+19695,NY,404,Toronto,2014-06
+19696,SC,63,Outside City Limits,2014-06
+19697,SC,390,Toronto,2014-06
+19698,ET,116,Outside City Limits,2014-07
+19699,ET,393,Toronto,2014-07
+19700,NY,119,Outside City Limits,2014-07
+19701,NY,454,Toronto,2014-07
+19702,SC,44,Outside City Limits,2014-07
+19703,SC,258,Toronto,2014-07
+19704,ET,80,Outside City Limits,2014-08
+19705,ET,301,Toronto,2014-08
+19706,NY,103,Outside City Limits,2014-08
+19707,NY,277,Toronto,2014-08
+19708,SC,120,Outside City Limits,2014-08
+19709,SC,518,Toronto,2014-08
+19710,ET,105,Outside City Limits,2014-09
+19711,ET,274,Toronto,2014-09
+19712,NY,94,Outside City Limits,2014-09
+19713,NY,391,Toronto,2014-09
+19714,SC,96,Outside City Limits,2014-09
+19715,SC,427,Toronto,2014-09
+19716,ET,92,Outside City Limits,2014-10
+19717,ET,297,Toronto,2014-10
+19718,NY,59,Outside City Limits,2014-10
+19719,NY,454,Toronto,2014-10
+19720,SC,81,Outside City Limits,2014-10
+19721,SC,459,Toronto,2014-10
+19722,ET,138,Outside City Limits,2014-11
+19723,ET,467,Toronto,2014-11
+19724,NY,93,Outside City Limits,2014-11
+19725,NY,267,Toronto,2014-11
+19726,SC,71,Outside City Limits,2014-11
+19727,SC,432,Toronto,2014-11
+19728,ET,111,Outside City Limits,2014-12
+19729,ET,308,Toronto,2014-12
+19730,NY,73,Outside City Limits,2014-12
+19731,NY,441,Toronto,2014-12
+19732,SC,85,Outside City Limits,2014-12
+19733,SC,482,Toronto,2014-12
+19734,ET,158,Outside City Limits,2015-01
+19735,ET,487,Toronto,2015-01
+19736,NY,119,Outside City Limits,2015-01
+19737,NY,422,Toronto,2015-01
+19738,SC,94,Outside City Limits,2015-01
+19739,SC,580,Toronto,2015-01
+19740,ET,132,Outside City Limits,2015-02
+19741,ET,543,Toronto,2015-02
+19742,NY,93,Outside City Limits,2015-02
+19743,NY,210,Toronto,2015-02
+19744,SC,107,Outside City Limits,2015-02
+19745,SC,500,Toronto,2015-02
+19746,ET,139,Outside City Limits,2015-03
+19747,ET,584,Toronto,2015-03
+19748,NY,65,Outside City Limits,2015-03
+19749,NY,347,Toronto,2015-03
+19750,SC,63,Outside City Limits,2015-03
+19751,SC,367,Toronto,2015-03
+19752,ET,113,Outside City Limits,2015-04
+19753,ET,399,Toronto,2015-04
+19754,NY,126,Outside City Limits,2015-04
+19755,NY,345,Toronto,2015-04
+19756,SC,60,Outside City Limits,2015-04
+19757,SC,436,Toronto,2015-04
+19758,ET,64,Outside City Limits,2015-05
+19759,ET,273,Toronto,2015-05
+19760,NY,94,Outside City Limits,2015-05
+19761,NY,422,Toronto,2015-05
+19762,SC,49,Outside City Limits,2015-05
+19763,SC,364,Toronto,2015-05
+19764,ET,124,Outside City Limits,2015-06
+19765,ET,319,Toronto,2015-06
+19766,NY,54,Outside City Limits,2015-06
+19767,NY,363,Toronto,2015-06
+19768,SC,93,Outside City Limits,2015-06
+19769,SC,450,Toronto,2015-06
+19770,ET,93,Outside City Limits,2015-07
+19771,ET,374,Toronto,2015-07
+19772,NY,76,Outside City Limits,2015-07
+19773,NY,369,Toronto,2015-07
+19774,SC,94,Outside City Limits,2015-07
+19775,SC,466,Toronto,2015-07
+19776,ET,81,Outside City Limits,2015-08
+19777,ET,334,Toronto,2015-08
+19778,NY,111,Outside City Limits,2015-08
+19779,NY,484,Toronto,2015-08
+19780,SC,97,Outside City Limits,2015-08
+19781,SC,416,Toronto,2015-08
+19782,ET,75,Outside City Limits,2015-09
+19783,ET,310,Toronto,2015-09
+19784,NY,87,Outside City Limits,2015-09
+19785,NY,333,Toronto,2015-09
+19786,SC,86,Outside City Limits,2015-09
+19787,SC,432,Toronto,2015-09
+19788,ET,158,Outside City Limits,2015-10
+19789,ET,401,Toronto,2015-10
+19790,NY,79,Outside City Limits,2015-10
+19791,NY,301,Toronto,2015-10
+19792,SC,83,Outside City Limits,2015-10
+19793,SC,372,Toronto,2015-10
+19794,ET,116,Outside City Limits,2015-11
+19795,ET,460,Toronto,2015-11
+19796,NY,70,Outside City Limits,2015-11
+19797,NY,372,Toronto,2015-11
+19798,SC,86,Outside City Limits,2015-11
+19799,SC,413,Toronto,2015-11
+19800,ET,68,Outside City Limits,2015-12
+19801,ET,333,Toronto,2015-12
+19802,NY,70,Outside City Limits,2015-12
+19803,NY,259,Toronto,2015-12
+19804,SC,98,Outside City Limits,2015-12
+19805,SC,459,Toronto,2015-12
+19806,ET,183,Outside City Limits,2016-01
+19807,ET,422,Toronto,2016-01
+19808,NY,90,Outside City Limits,2016-01
+19809,NY,396,Toronto,2016-01
+19810,SC,87,Outside City Limits,2016-01
+19811,SC,564,Toronto,2016-01
+19812,ET,95,Outside City Limits,2016-02
+19813,ET,387,Toronto,2016-02
+19814,NY,83,Outside City Limits,2016-02
+19815,NY,285,Toronto,2016-02
+19816,SC,99,Outside City Limits,2016-02
+19817,SC,471,Toronto,2016-02
+19818,ET,155,Outside City Limits,2016-03
+19819,ET,440,Toronto,2016-03
+19820,NY,95,Outside City Limits,2016-03
+19821,NY,311,Toronto,2016-03
+19822,SC,93,Outside City Limits,2016-03
+19823,SC,533,Toronto,2016-03
+19824,ET,104,Outside City Limits,2016-04
+19825,ET,414,Toronto,2016-04
+19826,NY,51,Outside City Limits,2016-04
+19827,NY,255,Toronto,2016-04
+19828,SC,107,Outside City Limits,2016-04
+19829,SC,539,Toronto,2016-04
+19830,ET,137,Outside City Limits,2016-05
+19831,ET,355,Toronto,2016-05
+19832,NY,106,Outside City Limits,2016-05
+19833,NY,329,Toronto,2016-05
+19834,SC,91,Outside City Limits,2016-05
+19835,SC,518,Toronto,2016-05
+19836,ET,134,Outside City Limits,2016-06
+19837,ET,387,Toronto,2016-06
+19838,NY,53,Outside City Limits,2016-06
+19839,NY,304,Toronto,2016-06
+19840,SC,48,Outside City Limits,2016-06
+19841,SC,421,Toronto,2016-06
+19842,ET,126,Outside City Limits,2016-07
+19843,ET,407,Toronto,2016-07
+19844,NY,10,Outside City Limits,2016-07
+19845,NY,250,Toronto,2016-07
+19846,SC,60,Outside City Limits,2016-07
+19847,SC,186,Toronto,2016-07
+19848,ET,155,Outside City Limits,2016-08
+19849,ET,312,Toronto,2016-08
+19850,NY,77,Outside City Limits,2016-08
+19851,NY,240,Toronto,2016-08
+19852,SC,85,Outside City Limits,2016-08
+19853,SC,696,Toronto,2016-08
+19854,ET,198,Outside City Limits,2016-09
+19855,ET,432,Toronto,2016-09
+19856,NY,78,Outside City Limits,2016-09
+19857,NY,321,Toronto,2016-09
+19858,SC,112,Outside City Limits,2016-09
+19859,SC,553,Toronto,2016-09
+19860,ET,108,Outside City Limits,2016-10
+19861,ET,427,Toronto,2016-10
+19862,NY,78,Outside City Limits,2016-10
+19863,NY,356,Toronto,2016-10
+19864,SC,93,Outside City Limits,2016-10
+19865,SC,478,Toronto,2016-10
+19866,ET,124,Outside City Limits,2016-11
+19867,ET,293,Toronto,2016-11
+19868,NY,90,Outside City Limits,2016-11
+19869,NY,308,Toronto,2016-11
+19870,SC,124,Outside City Limits,2016-11
+19871,SC,518,Toronto,2016-11
+19872,ET,98,Outside City Limits,2016-12
+19873,ET,338,Toronto,2016-12
+19874,NY,59,Outside City Limits,2016-12
+19875,NY,298,Toronto,2016-12
+19876,SC,69,Outside City Limits,2016-12
+19877,SC,401,Toronto,2016-12
+19878,ET,208,Outside City Limits,2017-01
+19879,ET,610,Toronto,2017-01
+19880,NY,121,Outside City Limits,2017-01
+19881,NY,381,Toronto,2017-01
+19882,SC,134,Outside City Limits,2017-01
+19883,SC,747,Toronto,2017-01
+19884,ET,105,Outside City Limits,2017-02
+19885,ET,340,Toronto,2017-02
+19886,NY,92,Outside City Limits,2017-02
+19887,NY,352,Toronto,2017-02
+19888,SC,142,Outside City Limits,2017-02
+19889,SC,524,Toronto,2017-02
+19890,ET,133,Outside City Limits,2017-03
+19891,ET,442,Toronto,2017-03
+19892,NY,74,Outside City Limits,2017-03
+19893,NY,430,Toronto,2017-03
+19894,SC,95,Outside City Limits,2017-03
+19895,SC,518,Toronto,2017-03
+19896,ET,122,Outside City Limits,2017-04
+19897,ET,370,Toronto,2017-04
+19898,NY,25,Outside City Limits,2017-04
+19899,NY,160,Toronto,2017-04
+19900,SC,77,Outside City Limits,2017-04
+19901,SC,358,Toronto,2017-04
+19902,ET,135,Outside City Limits,2017-05
+19903,ET,447,Toronto,2017-05
+19904,NY,116,Outside City Limits,2017-05
+19905,NY,426,Toronto,2017-05
+19906,SC,89,Outside City Limits,2017-05
+19907,SC,481,Toronto,2017-05
+19908,ET,110,Outside City Limits,2017-06
+19909,ET,384,Toronto,2017-06
+19910,NY,115,Outside City Limits,2017-06
+19911,NY,265,Toronto,2017-06
+19912,SC,106,Outside City Limits,2017-06
+19913,SC,373,Toronto,2017-06
+19914,ET,133,Outside City Limits,2017-07
+19915,ET,255,Toronto,2017-07
+19916,NY,82,Outside City Limits,2017-07
+19917,NY,268,Toronto,2017-07
+19918,SC,92,Outside City Limits,2017-07
+19919,SC,448,Toronto,2017-07
+19920,ET,128,Outside City Limits,2017-08
+19921,ET,348,Toronto,2017-08
+19922,NY,82,Outside City Limits,2017-08
+19923,NY,277,Toronto,2017-08
+19924,SC,113,Outside City Limits,2017-08
+19925,SC,602,Toronto,2017-08
+19926,ET,140,Outside City Limits,2017-09
+19927,ET,471,Toronto,2017-09
+19928,NY,51,Outside City Limits,2017-09
+19929,NY,239,Toronto,2017-09
+19930,SC,87,Outside City Limits,2017-09
+19931,SC,360,Toronto,2017-09
+19932,ET,172,Outside City Limits,2017-10
+19933,ET,521,Toronto,2017-10
+19934,NY,94,Outside City Limits,2017-10
+19935,NY,289,Toronto,2017-10
+19936,SC,70,Outside City Limits,2017-10
+19937,SC,477,Toronto,2017-10
+19938,ET,129,Outside City Limits,2017-11
+19939,ET,387,Toronto,2017-11
+19940,NY,84,Outside City Limits,2017-11
+19941,NY,358,Toronto,2017-11
+19942,SC,99,Outside City Limits,2017-11
+19943,SC,540,Toronto,2017-11
+19944,ET,44,Outside City Limits,2017-12
+19945,ET,184,Toronto,2017-12
+19946,NY,56,Outside City Limits,2017-12
+19947,NY,125,Toronto,2017-12
+19948,SC,64,Outside City Limits,2017-12
+19949,SC,295,Toronto,2017-12
+19950,ET,248,Outside City Limits,2018-01
+19951,ET,605,Toronto,2018-01
+19952,NY,103,Outside City Limits,2018-01
+19953,NY,501,Toronto,2018-01
+19954,SC,188,Outside City Limits,2018-01
+19955,SC,766,Toronto,2018-01
+19956,ET,193,Outside City Limits,2018-02
+19957,ET,440,Toronto,2018-02
+19958,NY,46,Outside City Limits,2018-02
+19959,NY,262,Toronto,2018-02
+19960,SC,142,Outside City Limits,2018-02
+19961,SC,648,Toronto,2018-02
+19962,ET,126,Outside City Limits,2018-03
+19963,ET,463,Toronto,2018-03
+19964,NY,81,Outside City Limits,2018-03
+19965,NY,292,Toronto,2018-03
+19966,SC,141,Outside City Limits,2018-03
+19967,SC,655,Toronto,2018-03
+19968,ET,95,Outside City Limits,2018-04
+19969,ET,320,Toronto,2018-04
+19970,NY,37,Outside City Limits,2018-04
+19971,NY,206,Toronto,2018-04
+19972,SC,61,Outside City Limits,2018-04
+19973,SC,347,Toronto,2018-04
+19974,ET,216,Outside City Limits,2018-05
+19975,ET,459,Toronto,2018-05
+19976,NY,140,Outside City Limits,2018-05
+19977,NY,492,Toronto,2018-05
+19978,SC,108,Outside City Limits,2018-05
+19979,SC,494,Toronto,2018-05
+19980,ET,88,Outside City Limits,2018-06
+19981,ET,377,Toronto,2018-06
+19982,NY,31,Outside City Limits,2018-06
+19983,NY,194,Toronto,2018-06
+19984,SC,82,Outside City Limits,2018-06
+19985,SC,513,Toronto,2018-06
+19986,ET,117,Outside City Limits,2018-07
+19987,ET,327,Toronto,2018-07
+19988,NY,125,Outside City Limits,2018-07
+19989,NY,348,Toronto,2018-07
+19990,SC,72,Outside City Limits,2018-07
+19991,SC,522,Toronto,2018-07
+19992,ET,81,Outside City Limits,2018-08
+19993,ET,220,Toronto,2018-08
+19994,NY,26,Outside City Limits,2018-08
+19995,NY,183,Toronto,2018-08
+19996,SC,70,Outside City Limits,2018-08
+19997,SC,406,Toronto,2018-08
+19998,ET,157,Outside City Limits,2018-09
+19999,ET,373,Toronto,2018-09
+20000,NY,101,Outside City Limits,2018-09
+20001,NY,285,Toronto,2018-09
+20002,SC,133,Outside City Limits,2018-09
+20003,SC,582,Toronto,2018-09
+20004,ET,170,Outside City Limits,2018-10
+20005,ET,573,Toronto,2018-10
+20006,NY,37,Outside City Limits,2018-10
+20007,NY,214,Toronto,2018-10
+20008,SC,80,Outside City Limits,2018-10
+20009,SC,592,Toronto,2018-10
+20010,ET,175,Outside City Limits,2018-11
+20011,ET,510,Toronto,2018-11
+20012,NY,63,Outside City Limits,2018-11
+20013,NY,343,Toronto,2018-11
+20014,SC,101,Outside City Limits,2018-11
+20015,SC,425,Toronto,2018-11
+20016,ET,85,Outside City Limits,2018-12
+20017,ET,144,Toronto,2018-12
+20018,NY,89,Outside City Limits,2018-12
+20019,NY,287,Toronto,2018-12
+20020,SC,73,Outside City Limits,2018-12
+20021,SC,433,Toronto,2018-12
+20022,ET,199,Outside City Limits,2019-01
+20023,ET,612,Toronto,2019-01
+20024,NY,122,Outside City Limits,2019-01
+20025,NY,455,Toronto,2019-01
+20026,SC,105,Outside City Limits,2019-01
+20027,SC,505,Toronto,2019-01
+20028,ET,189,Outside City Limits,2019-02
+20029,ET,573,Toronto,2019-02
+20030,NY,80,Outside City Limits,2019-02
+20031,NY,328,Toronto,2019-02
+20032,SC,84,Outside City Limits,2019-02
+20033,SC,379,Toronto,2019-02
+20034,ET,152,Outside City Limits,2019-03
+20035,ET,555,Toronto,2019-03
+20036,NY,68,Outside City Limits,2019-03
+20037,NY,344,Toronto,2019-03
+20038,SC,97,Outside City Limits,2019-03
+20039,SC,433,Toronto,2019-03
+20040,ET,111,Outside City Limits,2019-04
+20041,ET,347,Toronto,2019-04
+20042,NY,54,Outside City Limits,2019-04
+20043,NY,253,Toronto,2019-04
+20044,SC,136,Outside City Limits,2019-04
+20045,SC,522,Toronto,2019-04
+20046,ET,205,Outside City Limits,2019-05
+20047,ET,407,Toronto,2019-05
+20048,NY,43,Outside City Limits,2019-05
+20049,NY,268,Toronto,2019-05
+20050,SC,118,Outside City Limits,2019-05
+20051,SC,678,Toronto,2019-05
+20052,ET,73,Outside City Limits,2019-06
+20053,ET,164,Toronto,2019-06
+20054,NY,133,Outside City Limits,2019-06
+20055,NY,395,Toronto,2019-06
+20056,SC,77,Outside City Limits,2019-06
+20057,SC,465,Toronto,2019-06
+20058,ET,157,Outside City Limits,2019-07
+20059,ET,256,Toronto,2019-07
+20060,NY,69,Outside City Limits,2019-07
+20061,NY,316,Toronto,2019-07
+20062,SC,155,Outside City Limits,2019-07
+20063,SC,704,Toronto,2019-07
+20064,ET,93,Outside City Limits,2019-08
+20065,ET,242,Toronto,2019-08
+20066,NY,89,Outside City Limits,2019-08
+20067,NY,316,Toronto,2019-08
+20068,SC,107,Outside City Limits,2019-08
+20069,SC,432,Toronto,2019-08
+20070,ET,140,Outside City Limits,2019-09
+20071,ET,266,Toronto,2019-09
+20072,NY,87,Outside City Limits,2019-09
+20073,NY,312,Toronto,2019-09
+20074,SC,106,Outside City Limits,2019-09
+20075,SC,385,Toronto,2019-09
+20076,ET,109,Outside City Limits,2019-10
+20077,ET,306,Toronto,2019-10
+20078,NY,59,Outside City Limits,2019-10
+20079,NY,323,Toronto,2019-10
+20080,SC,81,Outside City Limits,2019-10
+20081,SC,509,Toronto,2019-10
+20082,ET,155,Outside City Limits,2019-11
+20083,ET,500,Toronto,2019-11
+20084,NY,100,Outside City Limits,2019-11
+20085,NY,277,Toronto,2019-11
+20086,SC,135,Outside City Limits,2019-11
+20087,SC,631,Toronto,2019-11
+20088,TO,39,Outside City Limits,2019-11
+20089,TO,178,Toronto,2019-11
+20090,ET,154,Outside City Limits,2019-12
+20091,ET,332,Toronto,2019-12
+20092,NY,40,Outside City Limits,2019-12
+20093,NY,124,Toronto,2019-12
+20094,SC,125,Outside City Limits,2019-12
+20095,SC,523,Toronto,2019-12
+20096,ET,149,Outside City Limits,2020-01
+20097,ET,416,Toronto,2020-01
+20098,NY,86,Outside City Limits,2020-01
+20099,NY,563,Toronto,2020-01
+20100,SC,157,Outside City Limits,2020-01
+20101,SC,557,Toronto,2020-01
+20102,TO,46,Outside City Limits,2020-01
+20103,TO,218,Toronto,2020-01
+20104,ET,123,Outside City Limits,2020-02
+20105,ET,313,Toronto,2020-02
+20106,NY,61,Outside City Limits,2020-02
+20107,NY,298,Toronto,2020-02
+20108,SC,102,Outside City Limits,2020-02
+20109,SC,282,Toronto,2020-02
+20110,TO,58,Outside City Limits,2020-02
+20111,TO,252,Toronto,2020-02
+20112,ET,86,Outside City Limits,2020-03
+20113,ET,269,Toronto,2020-03
+20114,NY,30,Outside City Limits,2020-03
+20115,NY,184,Toronto,2020-03
+20116,SC,57,Outside City Limits,2020-03
+20117,SC,232,Toronto,2020-03
+20118,TO,9,Outside City Limits,2020-03
+20119,TO,29,Toronto,2020-03
+20120,SC,184,Outside City Limits,2020-04
+20121,SC,662,Toronto,2020-04
+20122,TO,1,Toronto,2020-04
+20123,ET,239,Outside City Limits,2020-05
+20124,ET,769,Toronto,2020-05
+20125,NY,74,Outside City Limits,2020-05
+20126,NY,356,Toronto,2020-05
+20127,SC,393,Outside City Limits,2020-05
+20128,SC,1455,Toronto,2020-05
+20129,TO,14,Outside City Limits,2020-05
+20130,TO,128,Toronto,2020-05
+20131,ET,190,Outside City Limits,2020-06
+20132,ET,567,Toronto,2020-06
+20133,NY,32,Outside City Limits,2020-06
+20134,NY,210,Toronto,2020-06
+20135,SC,5,Outside City Limits,2020-06
+20136,SC,29,Toronto,2020-06
+20137,TO,61,Outside City Limits,2020-06
+20138,TO,255,Toronto,2020-06
+20139,ET,187,Outside City Limits,2020-07
+20140,ET,647,Toronto,2020-07
+20141,NY,24,Outside City Limits,2020-07
+20142,NY,187,Toronto,2020-07
+20143,TO,72,Outside City Limits,2020-07
+20144,TO,272,Toronto,2020-07
+20145,ET,186,Outside City Limits,2020-08
+20146,ET,507,Toronto,2020-08
+20147,NY,46,Outside City Limits,2020-08
+20148,NY,200,Toronto,2020-08
+20149,TO,12,Outside City Limits,2020-08
+20150,TO,86,Toronto,2020-08
+20151,ET,39,Outside City Limits,2020-09
+20152,ET,194,Toronto,2020-09
+20153,NY,1,Outside City Limits,2020-09
+20154,NY,2,Toronto,2020-09
+20155,SC,40,Outside City Limits,2020-09
+20156,SC,140,Toronto,2020-09
+20157,TO,155,Outside City Limits,2020-09
+20158,TO,534,Toronto,2020-09
+20159,ET,164,Outside City Limits,2020-10
+20160,ET,375,Toronto,2020-10
+20161,NY,1,Outside City Limits,2020-10
+20162,NY,2,Toronto,2020-10
+20163,SC,79,Outside City Limits,2020-10
+20164,SC,162,Toronto,2020-10
+20165,TO,220,Outside City Limits,2020-10
+20166,TO,683,Toronto,2020-10
+20167,ET,322,Outside City Limits,2020-11
+20168,ET,1239,Toronto,2020-11
+20169,NY,5,Outside City Limits,2020-11
+20170,NY,24,Toronto,2020-11
+20171,SC,12,Outside City Limits,2020-11
+20172,SC,39,Toronto,2020-11
+20173,TO,39,Outside City Limits,2020-11
+20174,TO,147,Toronto,2020-11
+20175,ET,171,Outside City Limits,2020-12
+20176,ET,832,Toronto,2020-12
+20177,SC,3,Toronto,2020-12
+20178,TO,1,Outside City Limits,2020-12
+20179,TO,16,Toronto,2020-12
+20180,ET,405,Outside City Limits,2021-01
+20181,ET,1712,Toronto,2021-01
+20182,NY,1,Outside City Limits,2021-01
+20183,NY,5,Toronto,2021-01
+20184,TO,4,Toronto,2021-01
+20185,ET,478,Outside City Limits,2021-02
+20186,ET,1339,Toronto,2021-02
+20187,TO,1,Outside City Limits,2021-02
+20188,TO,1,Toronto,2021-02
+20189,ET,377,Outside City Limits,2021-03
+20190,ET,1489,Toronto,2021-03
+20191,TO,1,Toronto,2021-03
+20192,ET,426,Outside City Limits,2021-04
+20193,ET,1304,Toronto,2021-04
+20194,NY,1,Toronto,2021-04
+20195,TO,1,Toronto,2021-04
+20196,ET,653,Outside City Limits,2021-05
+20197,ET,2007,Toronto,2021-05
+20198,TO,1,Toronto,2021-05
+20199,ET,146,Outside City Limits,2021-06
+20200,ET,429,Toronto,2021-06
+20201,ET,197,Outside City Limits,2021-07
+20202,ET,879,Toronto,2021-07
+20203,ET,290,Outside City Limits,2021-08
+20204,ET,740,Toronto,2021-08
+20205,TO,2,Toronto,2021-08
+20206,ET,302,Outside City Limits,2021-09
+20207,ET,1216,Toronto,2021-09
+20208,TO,3,Toronto,2021-09
+20209,ET,374,Outside City Limits,2021-10
+20210,ET,1181,Toronto,2021-10
+20211,ET,277,Outside City Limits,2021-11
+20212,ET,909,Toronto,2021-11
+20213,ET,193,Outside City Limits,2021-12
+20214,ET,746,Toronto,2021-12
+20215,ET,347,Outside City Limits,2022-01
+20216,ET,1326,Toronto,2022-01
+20217,ET,473,Outside City Limits,2022-02
+20218,ET,1285,Toronto,2022-02
+20219,TO,10,Toronto,2022-02
+20220,ET,424,Outside City Limits,2022-03
+20221,ET,1437,Toronto,2022-03
+20222,TO,11,Outside City Limits,2022-03
+20223,TO,54,Toronto,2022-03
+20224,ET,244,Outside City Limits,2022-04
+20225,ET,679,Toronto,2022-04
+20226,TO,5,Outside City Limits,2022-04
+20227,TO,9,Toronto,2022-04
+20228,ET,319,Outside City Limits,2022-05
+20229,ET,980,Toronto,2022-05
+20230,NY,7,Outside City Limits,2022-05
+20231,NY,14,Toronto,2022-05
+20232,TO,2,Outside City Limits,2022-05
+20233,TO,4,Toronto,2022-05
+20234,ET,352,Outside City Limits,2022-06
+20235,ET,1199,Toronto,2022-06
+20236,NY,12,Outside City Limits,2022-06
+20237,NY,35,Toronto,2022-06
+20238,TO,2,Outside City Limits,2022-06
+20239,TO,9,Toronto,2022-06
+20240,ET,87,Outside City Limits,2022-07
+20241,ET,272,Toronto,2022-07
+20242,NY,5,Outside City Limits,2022-07
+20243,NY,24,Toronto,2022-07
+20244,TO,1,Outside City Limits,2022-07
+20245,TO,2,Toronto,2022-07
+20246,ET,118,Outside City Limits,2022-08
+20247,ET,317,Toronto,2022-08
+20248,NY,65,Outside City Limits,2022-08
+20249,NY,143,Toronto,2022-08
+20250,TO,9,Outside City Limits,2022-08
+20251,TO,18,Toronto,2022-08
+20252,ET,203,Outside City Limits,2022-09
+20253,ET,583,Toronto,2022-09
+20254,NY,197,Outside City Limits,2022-09
+20255,NY,730,Toronto,2022-09
+20256,TO,9,Outside City Limits,2022-09
+20257,TO,55,Toronto,2022-09
+20258,ET,73,Outside City Limits,2022-10
+20259,ET,282,Toronto,2022-10
+20260,NY,133,Outside City Limits,2022-10
+20261,NY,397,Toronto,2022-10
+20262,TO,9,Outside City Limits,2022-10
+20263,TO,19,Toronto,2022-10
+20264,ET,71,Outside City Limits,2022-11
+20265,ET,360,Toronto,2022-11
+20266,NY,324,Outside City Limits,2022-11
+20267,NY,1274,Toronto,2022-11
+20268,TO,16,Outside City Limits,2022-11
+20269,TO,65,Toronto,2022-11
+20270,ET,10,Outside City Limits,2022-12
+20271,ET,14,Toronto,2022-12
+20272,NY,416,Outside City Limits,2022-12
+20273,NY,996,Toronto,2022-12
+20274,TO,12,Outside City Limits,2022-12
+20275,TO,25,Toronto,2022-12
+20276,ET,5,Outside City Limits,2023-01
+20277,ET,20,Toronto,2023-01
+20278,NY,370,Outside City Limits,2023-01
+20279,NY,1015,Toronto,2023-01
+20280,TO,14,Outside City Limits,2023-01
+20281,TO,48,Toronto,2023-01
+20282,ET,7,Outside City Limits,2023-02
+20283,ET,12,Toronto,2023-02
+20284,NY,162,Outside City Limits,2023-02
+20285,NY,446,Toronto,2023-02
+20286,TO,11,Outside City Limits,2023-02
+20287,TO,27,Toronto,2023-02
+20288,ET,10,Outside City Limits,2023-03
+20289,ET,34,Toronto,2023-03
+20290,NY,314,Outside City Limits,2023-03
+20291,NY,923,Toronto,2023-03
+20292,TO,13,Outside City Limits,2023-03
+20293,TO,55,Toronto,2023-03
+20294,ET,4,Outside City Limits,2023-04
+20295,ET,17,Toronto,2023-04
+20296,NY,407,Outside City Limits,2023-04
+20297,NY,1588,Toronto,2023-04
+20298,TO,18,Outside City Limits,2023-04
+20299,TO,72,Toronto,2023-04
+20300,ET,6,Outside City Limits,2023-05
+20301,ET,8,Toronto,2023-05
+20302,NY,519,Outside City Limits,2023-05
+20303,NY,1926,Toronto,2023-05
+20304,TO,18,Outside City Limits,2023-05
+20305,TO,74,Toronto,2023-05
+20306,ET,5,Outside City Limits,2023-06
+20307,ET,24,Toronto,2023-06
+20308,NY,775,Outside City Limits,2023-06
+20309,NY,1842,Toronto,2023-06
+20310,TO,30,Outside City Limits,2023-06
+20311,TO,62,Toronto,2023-06
+20312,NY,124,Outside City Limits,2023-07
+20313,NY,394,Toronto,2023-07
+20314,TO,10,Outside City Limits,2023-07
+20315,TO,23,Toronto,2023-07
+20316,ET,1,Outside City Limits,2023-08
+20317,ET,6,Toronto,2023-08
+20318,NY,301,Outside City Limits,2023-08
+20319,NY,866,Toronto,2023-08
+20320,TO,12,Outside City Limits,2023-08
+20321,TO,40,Toronto,2023-08
+20322,ET,1,Outside City Limits,2023-09
+20323,ET,2,Toronto,2023-09
+20324,NY,439,Outside City Limits,2023-09
+20325,NY,1180,Toronto,2023-09
+20326,TO,31,Outside City Limits,2023-09
+20327,TO,86,Toronto,2023-09
+20328,ET,1,Outside City Limits,2023-10
+20329,ET,4,Toronto,2023-10
+20330,NY,344,Outside City Limits,2023-10
+20331,NY,1058,Toronto,2023-10
+20332,TO,51,Outside City Limits,2023-10
+20333,TO,120,Toronto,2023-10
+20334,ET,2,Toronto,2023-11
+20335,NY,309,Outside City Limits,2023-11
+20336,NY,1301,Toronto,2023-11
+20337,TO,47,Outside City Limits,2023-11
+20338,TO,155,Toronto,2023-11
+20339,ET,1,Toronto,2023-12
+20340,NY,143,Outside City Limits,2023-12
+20341,NY,510,Toronto,2023-12
+20342,TO,16,Outside City Limits,2023-12
+20343,TO,100,Toronto,2023-12
