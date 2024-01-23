@@ -1,0 +1,69 @@
+---
+title: "Toronto death registration rate"
+author: 
+  - Xuecheng Gao
+  
+thanks: "Code and data are available at: <https://github.com/XuechengGao/Toronto_death_registration_rate.git>"
+date: today
+date-format: long
+abstract: "Data is people's summary of objective things. Tables and graphs display complex data in an intuitive way, helping people understand and analyze information more easily.We can look at the death statistics of various areas of Toronto to get a more intuitive understanding of what happened in these places over the past 13 years."
+format: pdf
+number-sections: true
+bibliography: references.bib
+---
+
+```{r}
+#| include: false
+#| warning: false
+#| message: false
+
+library(tidyverse)
+
+
+```
+
+
+# Introduction
+
+  Death registration statistics are very important for analyzing and studying the level, causes and changes of human death. People can study social economy and science from these data analysis. The Toronto Death Registration Statistics dataset includes information related to death registrations recorded by registration services staff located in four municipal centres: Scarborough, North York, Toronto and Etobicoke. This information has been recorded since 2011 until now. Toronto had fewer deaths than other regions before 2019. In 2019, the number of deaths in four regions increased rapidly due to the epidemic. The highest number of registered deaths was 1,600. During the epidemic, the number of registered deaths in Toronto exceeded the other four regions. Scarborough and Etobicoke had the highest average number of registered deaths before 2020.
+
+
+
+# Data {#sec-data}
+
+
+
+```{r}
+
+#### Workspace setup ####
+
+install.packages("here")
+
+library(here)
+
+#### Graph ####
+Death_Registry <-
+  read_csv(
+    here::here("inputs/data/unedited_data.csv"),
+    show_col_types = FALSE
+  )
+
+Death_Registry |>
+  ggplot(aes(x = TIME_PERIOD, y = DEATH_LICENSES, color = CIVIC_CENTRE)) +
+  geom_point() +
+  theme_minimal() +
+  labs(x = "Year", y = "DEATH_LICENSES", color = "CIVIC_CENTRE") +
+  scale_color_brewer(palette = "Set1") +
+  theme(legend.position = "bottom")
+```
+
+
+
+ 
+
+
+
+
+
+
+
